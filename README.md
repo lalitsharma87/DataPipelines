@@ -1,2 +1,7 @@
 # DataPipelines
-Repo to showcase my DP skills and practice those.
+Repository contains scripts to showcase my Data Engineering skills with following:
+  Pyspark
+  Big Data (Structure, unstructured)
+  Python
+  AWS
+  Azure
